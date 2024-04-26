@@ -11,4 +11,4 @@ Here are steps to create a pull request.
 
 |Project name|Student 1|Student 2|Link of your Project Repository|
 |----------| ----------- | -----------|--------|
-|Image | Aditya (2210993506)|Marushika (2210993538)| Link|
+|Project 1|Student 1 (22109935xx)|Student 2 (22109935xx)|Link|
