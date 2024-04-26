@@ -9,7 +9,5 @@ Here are steps to create a pull request.
 4.Commit the changes and create a pull request.
 
 
-Name	Roll No.	Link of Hosted Website
-Shivansh Sood	2210992328	Link
-Vardhman Jain	2210992513	Link
-Aditya Anchal	2210993506	Link
+|Project name| Made by Student 1| Made by Student 2| Link |
+|Image | Aditya (2210993506)|Marushika (2210993538)| Link|
