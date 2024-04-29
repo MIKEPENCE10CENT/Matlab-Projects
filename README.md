@@ -1,5 +1,5 @@
-# Matlab-Projects
-This Repository contains the Matlab Projects of Batch 2022 
+# MATLAB Projects
+This repository contains the MATLAB Projects of ECE Batch 2022 
 
 Here are steps to create a pull request.
 
@@ -11,4 +11,4 @@ Here are steps to create a pull request.
 
 |Project name|Student 1|Student 2|Link of your Project Repository|
 |----------| ----------- | -----------|--------|
-|Project 1|Student 1 (22109935xx)|Student 2 (22109935xx)|Link|
+|Audio Equalizer|Giresh Datta (2210993528)|Bhavya Sharma (2210993524)|[Link](https://github.com/Giresh001/MATLAB)|
