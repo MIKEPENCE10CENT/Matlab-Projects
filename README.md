@@ -11,4 +11,4 @@ Here are steps to create a pull request.
 
 |Project name|Student 1|Student 2|Link of your Project Repository|
 |----------| ----------- | -----------|--------|
-|Audio Equalizer|Giresh Datta (2210993528)|Bhavya Sharma (2210993524)|[Link](https://github.com/Giresh001/MATLAB)|
+|Audio Equalizer|Giresh Datta (2210993528)|Bhavya Sharma (2210993524)|[Project Files](https://github.com/Giresh001/MATLAB)|
