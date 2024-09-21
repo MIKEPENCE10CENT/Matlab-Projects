@@ -12,3 +12,5 @@ Here are steps to create a pull request.
 |Project name|Student 1|Student 2|Link of your Project Repository|
 |----------| ----------- | -----------|--------|
 |Audio Equalizer|Giresh Datta (2210993528)|Bhavya Sharma (2210993524)|[Link](https://github.com/Giresh001/MATLAB)|
+|----------| ----------- | -----------|--------|
+|Image Compression |Aditya (2210993506)|Marushika (2210993538)|[Link](https://github.com/Giresh001/MATLAB)](https://github.com/MIKEPENCE10CENT/Image_Compression)|
